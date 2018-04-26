@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+	<style>
+		<link rel="stylesheet.css" type = "text/css" href="stylesheet.css" />
+	</style>
+</head>
+<body>
+	<p><img src="images/Empire.jpg" alt="Ignore This" style="float:right;position:relative;bottom:312px;width:100px;height:100px;">
+
+	<p><img src="images/Rebels.jpg" alt="Ignore This" style="float:left;position:relative;bottom:328px;width:100px;height:100px;">
+</body>
